@@ -2,6 +2,15 @@
 
 API REST didática de produtos e categorias, construída com Java 25, Spring Boot, Spring Data JPA e PostgreSQL. Este projeto apresenta dois CRUDs independentes; relacionamentos e estoque entram no Projeto 06 / Aula 23.
 
+Squad 2:
+- Anderson Barbosa
+- Gilcimar Matias
+- Keila Guimel
+- Mateus Rocha
+- Matheus Carneiro
+- Ramon da Rocha
+- Renata Aparecida
+
 ## Requisitos
 
 - JDK 25.0.2
